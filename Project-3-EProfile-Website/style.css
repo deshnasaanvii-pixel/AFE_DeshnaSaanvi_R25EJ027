@@ -35,3 +35,8 @@ ul{
 li{
     padding:8px;
 }
+body{
+    font-family:Arial,sans-serif;
+    background:linear-gradient(135deg,#ffe6f0,#f8f9ff);
+    margin:0;
+}
