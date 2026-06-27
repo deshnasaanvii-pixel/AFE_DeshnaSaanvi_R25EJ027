@@ -21,8 +21,10 @@ This repository contains the four AFE projects:
    
 ## Live Projects
 
-### Project 3 - E-Profile Website
+## Live Projects
+
+### 🌐 Project 3 - E-Profile Website
 https://deshnasaanvii-pixel.github.io/AFE_DeshnaSaanvi_R25EJ027/Project-3-EProfile-Website/
 
-### Project 4 - News Website
-(We'll add this after we build it.)
+### 📰 Project 4 - News Website
+https://deshnasaanvii-pixel.github.io/AFE_DeshnaSaanvi_R25EJ027/Project-4-News-Website/
