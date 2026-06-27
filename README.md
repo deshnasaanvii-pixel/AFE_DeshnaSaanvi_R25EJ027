@@ -7,7 +7,7 @@
 
 **Semester:** 2nd
 
-**SRN:**R25EJ027
+**SRN:** R25EJ027
 
 This repository contains the four AFE projects:
 
