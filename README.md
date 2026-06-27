@@ -17,3 +17,12 @@ This repository contains the four AFE projects:
 2. Hugging Face Model Report (GLM-5.2)
 3. E-Profile Website
 4. News Website
+
+   
+## Live Projects
+
+### Project 3 - E-Profile Website
+https://deshnasaanvii-pixel.github.io/AFE_DeshnaSaanvi_R25EJ027/Project-3-EProfile-Website/
+
+### Project 4 - News Website
+(We'll add this after we build it.)
