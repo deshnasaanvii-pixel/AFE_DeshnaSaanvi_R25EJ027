@@ -19,7 +19,8 @@ To design and deploy a simple AI News Website using HTML and CSS.
 
 ## Live Website
 
-(To be added after deployment.)
+🌐 Live Demo:
+https://deshnasaanvii-pixel.github.io/AFE_DeshnaSaanvi_R25EJ027/Project-4-News-Website/
 
 ## Author
 
